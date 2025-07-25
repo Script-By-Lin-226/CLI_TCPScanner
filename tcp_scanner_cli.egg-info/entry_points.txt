@@ -1,0 +1,2 @@
+[console_scripts]
+scanTCP = scanner.main:main

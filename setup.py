@@ -9,7 +9,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'scanTCP = tcp_scan:main',
+            'scanTCP = scanner.main:main',
         ],
     },
     author='Lin Lin Aung',
